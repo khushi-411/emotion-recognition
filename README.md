@@ -3,7 +3,7 @@
 #### WIP
 
 #### Files
-- *data-science/statistical_data_analysis.ipynb*: This is Python file of statistical data analysis. Blogs I released for this concepts are:
+- *data-science/statistical_data_analysis.ipynb*: This is Python file of statistical data analysis. I wrote the following blogs:
   - [Descriptive Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_1/)
   - [Exploratory Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_2/)
   - [Inferential Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_3/)
